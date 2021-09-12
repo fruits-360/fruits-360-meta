@@ -1,5 +1,5 @@
-# fruits-360-meta
-Meta data (attributes) for Fruits 360 dataset
+# Fruits-360 metadata
+Meta data (attributes) for the __Fruits 360 dataset__
 
 Images are stored at:
 
