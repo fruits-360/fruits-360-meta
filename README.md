@@ -2,11 +2,11 @@
 
 Meta data (attributes) for the __Fruits-360 dataset__
 
-## Download
+## Download Fruits-360 dataset
 
-[Fruits-360 on GitHub](https://fruits-360.github.io)
+Fruits-360 on GitHub [https://fruits-360.github.io](https://fruits-360.github.io)
 
-[Fruits-360 on Kaggle](https://www.kaggle.com/moltean/fruits)
+Fruits-360 on Kaggle [https://www.kaggle.com/moltean/fruits](https://www.kaggle.com/moltean/fruits)
 
 ## Research paper
 
