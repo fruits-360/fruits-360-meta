@@ -2,6 +2,8 @@
 
 Meta data (attributes) for the __Fruits-360 dataset__
 
+## Version: 2026.1.11.0 ##
+
 ## Download Fruits-360 dataset
 
 Fruits-360 on GitHub [https://github.com/fruits-360](https://github.com/fruits-360)
