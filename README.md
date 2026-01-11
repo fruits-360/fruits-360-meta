@@ -10,10 +10,13 @@ The archive contains information about the fruits, vegetables, nuts and seeds in
 
 The number of classes: 240.
 
+26 classes contains full information.
+The others contain only information about the defects and ripeness/maturity state.
+
 ## Repository structure ##
 
 Folder _Meta_ contains information about the objects in the dataset.
-For each object I included information like: type, size, ripeness status, water content, fructose content, growth location, etc.
+For each object I included information like: type, size, ripeness state, water content, fructose content, growth location, etc.
 
 ## How to cite ##
 
@@ -27,34 +30,21 @@ The Fruits-360 dataset can be downloaded from:
 
 **GitHub** [https://github.com/fruits-360](https://github.com/fruits-360)
 
-## How the dataset was created ##
-
-## History ##
-
-Fruits were filmed at the dates given below (YYYY.MM.DD):
-
-2017.02.25 - First fruit filmed.
-
 ## License ##
 
-MIT License
+CC BY-SA 4.0
 
 Copyright (c) 2017-, [Mihai Oltean](https://mihaioltean.github.io)
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+You are free to:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+*Share* — copy and redistribute the material in any medium or format for any purpose, even commercially.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+*Adapt* — remix, transform, and build upon the material for any purpose, even commercially.
+
+Under the following terms:
+
+*Attribution* — You must give appropriate credit , provide a link to the license, and indicate if changes were made . You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+
+*ShareAlike* — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+
