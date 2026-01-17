@@ -18,6 +18,8 @@ The others contain only information about the type, defects and ripeness/maturit
 Folder _Meta_ contains information about the objects in the dataset.
 For each object I included information like: type, size, ripeness state, water content, fructose content, growth location, etc.
 
+[dictionary.txt](dictionary.txt) contains the list of attributes and their possible values.
+
 ## How to cite ##
 
 Mihai Oltean, [Fruits 360 dataset: new research directions](https://www.researchgate.net/publication/354535752_Fruits_360_dataset_new_research_directions), Technical report, 2021.
