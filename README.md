@@ -1,6 +1,6 @@
 # Fruits-360: A dataset of images containing fruits, vegetables, nuts and seeds #
 
-## Version: 2026.2.15.3 ##
+## Version: 2026.2.22.0 ##
 
 ## Branch: meta
 
@@ -8,7 +8,7 @@ The archive contains information about the fruits, vegetables, nuts and seeds in
 
 ## Dataset properties ##
 
-The number of classes: 250.
+The number of classes: 251.
 
 26 classes contains full information.
 The others contain only information about the _type_, _defects_ and _ripeness/maturity_ state.
